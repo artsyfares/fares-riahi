@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fares-riahi
+- 👀 I’m interested in Graphic Design
+- 🌱 I’m currently learning Front End Web Development
+- 💞️ I’m looking to collaborate on Front End Projects
+- 📫 How to reach me on Email: fares.riahi@aiesec.net
